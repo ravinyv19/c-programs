@@ -31,7 +31,7 @@ int main()
 				<< totalrun << "\n";
 
 			// To exit loop
-			exit(0);
+			exit(0); //exit
 		}
 		else {
 

@@ -1,4 +1,4 @@
-# c++-programs
+# c++programs
 programs
 C++ program for banking management system
 
